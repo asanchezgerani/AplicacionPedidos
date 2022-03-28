@@ -1,0 +1,11 @@
+C:\Users\antho\Desktop\Practicas\C#\AplicacionPedidos\bin\Debug\AplicacionPedidos.exe.config
+C:\Users\antho\Desktop\Practicas\C#\AplicacionPedidos\bin\Debug\AplicacionPedidos.exe
+C:\Users\antho\Desktop\Practicas\C#\AplicacionPedidos\bin\Debug\AplicacionPedidos.pdb
+C:\Users\antho\Desktop\Practicas\C#\AplicacionPedidos\bin\Debug\libreriaPedidos.dll
+C:\Users\antho\Desktop\Practicas\C#\AplicacionPedidos\bin\Debug\libreriaPedidos.pdb
+C:\Users\antho\Desktop\Practicas\C#\AplicacionPedidos\obj\Debug\AplicacionPedidos.csproj.AssemblyReference.cache
+C:\Users\antho\Desktop\Practicas\C#\AplicacionPedidos\obj\Debug\AplicacionPedidos.csproj.SuggestedBindingRedirects.cache
+C:\Users\antho\Desktop\Practicas\C#\AplicacionPedidos\obj\Debug\AplicacionPedidos.csproj.CoreCompileInputs.cache
+C:\Users\antho\Desktop\Practicas\C#\AplicacionPedidos\obj\Debug\AplicacionPedidos.csproj.CopyComplete
+C:\Users\antho\Desktop\Practicas\C#\AplicacionPedidos\obj\Debug\AplicacionPedidos.exe
+C:\Users\antho\Desktop\Practicas\C#\AplicacionPedidos\obj\Debug\AplicacionPedidos.pdb

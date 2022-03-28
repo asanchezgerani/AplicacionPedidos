@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\libreriaPedidos\libreriaPedidos.csproj">
+      <Project>{e7e54885-e40d-49c4-8850-666773dcb56b}</Project>
+      <Name>libreriaPedidos</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
