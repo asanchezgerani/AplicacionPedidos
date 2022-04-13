@@ -11,6 +11,9 @@ namespace AplicacionPedidos
     {
         static void Main(string[] args)
         {
+            try
+            {
+
             int opcion = 0;
             ControlPedidos.CrearPedido();
 
@@ -48,6 +51,12 @@ namespace AplicacionPedidos
 
 
             } while (opcion != 0);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("Excepcion: " + e.Message);
+                Console.ReadKey();
+            }
         }
     }
 }
